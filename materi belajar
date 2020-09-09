@@ -2,7 +2,8 @@
   *HTML
   *CSS
     ^Bootstrap 4
-    ^materialize
+    ^Materialize
+    ^Foundation
   *Javascript
     ^React
     ^Vue
